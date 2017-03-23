@@ -17,7 +17,7 @@ html,body
 #page1
 {
     margin-top:5%;
-    background:url("img/naslovna.jpg") center no-repeat;
+    background:url("naslovna.jpg") center no-repeat;
     background-size: cover  ;
     background-position-y: 70%;
     width: 100%;
@@ -70,7 +70,7 @@ display:inline!important;
 
 }
 #desc{
-    background:url("img/silvia.jpg");
+    background:url("silvia.jpg");
     background-size:cover;
 
     background-position: center;
@@ -80,7 +80,7 @@ display:inline!important;
 
 #d2
 {
-    background:url("img/turbo.jpg") ;
+    background:url("turbo.jpg") ;
     background-size:cover;
     height: 100vh;
     color:white;
@@ -105,18 +105,18 @@ display:inline!important;
 }
 #brand
 {
-    content:url("img/slika1brand.jpg");
+    content:url("slika1brand.jpg");
 
 
 
 }
 #brand:hover
 {
-    content:url("img/slika3brand.jpg");
+    content:url("slika3brand.jpg");
 }
 #uslugeopis
 {
-    background: url("img/uslugedijelovi.jpg");
+    background: url("uslugedijelovi.jpg");
     background-size:cover;
     background-position: center;
     height:100vh;
@@ -134,7 +134,7 @@ display:inline!important;
 }
 #uslugeslika
 {
-    background:url("img/usluge.jpg");
+    background:url("usluge.jpg");
     background-size: cover;
     height:100vh;
     max-width:100%;
